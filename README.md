@@ -2,8 +2,8 @@
 
 ## Thông tin sinh viên
 
-* Họ và tên: ...
-* MSSV: ...
+* Họ và tên: Quách Hữu Nam
+* MSSV: 23012358
 
 ## Website kiểm thử
 
